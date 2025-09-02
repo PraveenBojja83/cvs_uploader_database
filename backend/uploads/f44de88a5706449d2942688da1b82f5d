@@ -1,0 +1,6 @@
+id,voter_id,name,phone_number,age,emailid
+1,KA123456,Asha Ramesh,9876543210,34,AshaRamesh@gmail.com
+2,KA123457,Ravi Kumar,9123456789,42,RaviKumar@gmail.com
+3,KA123458,Meena Joshi,9988776655,29,MeenaJoshi@gmail.com
+4,KA123459,Suresh Patil,9090909090,51,SureshPatil@gmail.com
+5,KA123460,Lakshmi Nair,9812345678,38,LakshmiNair@gmail.com

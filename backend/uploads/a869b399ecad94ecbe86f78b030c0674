@@ -1,0 +1,11 @@
+id,voter_id,name,phone_number,age,emailid,address,village_or_town,ward,panchayat,constituency,state,Gender
+1,KA123456,Asha Ramesh,9876543210,34,AshaRamesh@gmail.com,Address 001,Kudlu,Ward 5,Kudlu Gram Panchayat,Udupi,Andhra Pradesh,Male
+2,KA123457,Ravi Kumar,9123456789,42,RaviKumar@gmail.com,Address 002,Kudlu,Ward 5,Kudlu Gram Panchayat,Udupi,Andhra Pradesh,Male
+3,KA123458,Meena Joshi,9988776655,29,MeenaJoshi@gmail.com,Address 003,Kudlu,Ward 5,Kudlu Gram Panchayat,Udupi,Andhra Pradesh,Female
+4,KA123459,Suresh Patil,9090909090,51,SureshPatil@gmail.com,Address 004,Kudlu,Ward 5,Kudlu Gram Panchayat,Udupi,Andhra Pradesh,Male
+5,KA123460,Lakshmi Nair,9812345678,38,LakshmiNair@gmail.com,Address 005,Kudlu,Ward 5,Kudlu Gram Panchayat,Udupi,Andhra Pradesh,Female
+6,Voter 006,Balu,9812345679,,Address006@gmail.com,Address 006,Kudlu,Ward 5,Kudlu Gram Panchayat,Udupi,Andhra Pradesh,Male
+7,Voter 007,Bhabu,9812345680,,Address007@gmail.com,Address 007,Kudlu,Ward 5,Kudlu Gram Panchayat,Udupi,Andhra Pradesh,Male
+8,Voter 008,Siva,9812345681,,Address008@gmail.com,Address 008,Kudlu,Ward 5,Kudlu Gram Panchayat,Udupi,Andhra Pradesh,Male
+9,Voter 009,Rani,9812345682,,Address009@gmail.com,Address 009,Kudlu,Ward 5,Kudlu Gram Panchayat,Udupi,Andhra Pradesh,Female
+10,Voter 010,Vasu,9812345683,,Address010@gmail.com,Address 010,Kudlu,Ward 5,Kudlu Gram Panchayat,Udupi,Andhra Pradesh,Male

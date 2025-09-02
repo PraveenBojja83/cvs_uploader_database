@@ -1,0 +1,101 @@
+id,﻿voter_id,full_name,date_of_birth,age,gender,address,village_or_town,ward,panchayat,constituency,state,phone_number,email,voter_status,registration_date
+101,101,Voter 101,01-01-1980,45,Male,Address 001,Kurubuhalli,Ward 1,Kudlu Gram Panchayat,Udupi,Andhra Pradesh,9000000001,voter001@example.com,Active,01-09-2025 15:33
+102,102,Voter 102,02-01-1980,45,Female,Address 002,Kurubuhalli,Ward 1,Kudlu Gram Panchayat,Udupi,Andhra Pradesh,9000000002,voter002@example.com,Active,01-09-2025 15:33
+103,103,Voter 103,03-01-1980,45,Other,Address 003,Kurubuhalli,Ward 1,Kudlu Gram Panchayat,Udupi,Andhra Pradesh,9000000003,voter003@example.com,Active,01-09-2025 15:33
+104,104,Voter 104,04-01-1980,45,Male,Address 004,Kurubuhalli,Ward 1,Kudlu Gram Panchayat,Udupi,Andhra Pradesh,9000000004,voter004@example.com,Active,01-09-2025 15:33
+105,105,Voter 105,05-01-1980,45,Female,Address 005,Kurubuhalli,Ward 1,Kudlu Gram Panchayat,Udupi,Andhra Pradesh,9000000005,voter005@example.com,Active,01-09-2025 15:33
+106,106,Voter 106,06-01-1980,45,Other,Address 006,Kurubuhalli,Ward 1,Kudlu Gram Panchayat,Udupi,Andhra Pradesh,9000000006,voter006@example.com,Active,01-09-2025 15:33
+107,107,Voter 107,07-01-1980,45,Male,Address 007,Kurubuhalli,Ward 1,Kudlu Gram Panchayat,Udupi,Andhra Pradesh,9000000007,voter007@example.com,Active,01-09-2025 15:33
+108,108,Voter 108,08-01-1980,45,Female,Address 008,Kurubuhalli,Ward 1,Kudlu Gram Panchayat,Udupi,Andhra Pradesh,9000000008,voter008@example.com,Active,01-09-2025 15:33
+109,109,Voter 109,09-01-1980,45,Other,Address 009,Kurubuhalli,Ward 1,Kudlu Gram Panchayat,Udupi,Andhra Pradesh,9000000009,voter009@example.com,Active,01-09-2025 15:33
+110,110,Voter 110,10-01-1980,45,Male,Address 010,Kurubuhalli,Ward 1,Kudlu Gram Panchayat,Udupi,Andhra Pradesh,9000000010,voter010@example.com,Active,01-09-2025 15:33
+111,111,Voter 111,11-01-1980,45,Female,Address 011,Thiruvalla,Ward 12,Thiruvalla Municipality,Pathanamthitta,Andhra Pradesh,9000000011,voter011@example.com,Active,01-09-2025 15:33
+112,112,Voter 112,12-01-1980,45,Other,Address 012,Thiruvalla,Ward 12,Thiruvalla Municipality,Pathanamthitta,Andhra Pradesh,9000000012,voter012@example.com,Active,01-09-2025 15:33
+113,113,Voter 113,13-01-1980,45,Male,Address 013,Thiruvalla,Ward 12,Thiruvalla Municipality,Pathanamthitta,Andhra Pradesh,9000000013,voter013@example.com,Active,01-09-2025 15:33
+114,114,Voter 114,14-01-1980,45,Female,Address 014,Thiruvalla,Ward 12,Thiruvalla Municipality,Pathanamthitta,Andhra Pradesh,9000000014,voter014@example.com,Active,01-09-2025 15:33
+115,115,Voter 115,15-01-1980,45,Other,Address 015,Thiruvalla,Ward 12,Thiruvalla Municipality,Pathanamthitta,Andhra Pradesh,9000000015,voter015@example.com,Active,01-09-2025 15:33
+116,116,Voter 116,16-01-1980,45,Male,Address 016,Thiruvalla,Ward 12,Thiruvalla Municipality,Pathanamthitta,Andhra Pradesh,9000000016,voter016@example.com,Active,01-09-2025 15:33
+117,117,Voter 117,17-01-1980,45,Female,Address 017,Thiruvalla,Ward 12,Thiruvalla Municipality,Pathanamthitta,Andhra Pradesh,9000000017,voter017@example.com,Active,01-09-2025 15:33
+118,118,Voter 118,18-01-1980,45,Other,Address 018,Thiruvalla,Ward 12,Thiruvalla Municipality,Pathanamthitta,Andhra Pradesh,9000000018,voter018@example.com,Active,01-09-2025 15:33
+119,119,Voter 119,19-01-1980,45,Male,Address 019,Thiruvalla,Ward 12,Thiruvalla Municipality,Pathanamthitta,Andhra Pradesh,9000000019,voter019@example.com,Active,01-09-2025 15:33
+120,120,Voter 120,20-01-1980,45,Female,Address 020,Thiruvalla,Ward 12,Thiruvalla Municipality,Pathanamthitta,Andhra Pradesh,9000000020,voter020@example.com,Active,01-09-2025 15:33
+121,121,Voter 121,21-01-1980,45,Other,Address 021,Rajgarh,Ward 3,Rajgarh Nagar Panchayat,Alwar,Andhra Pradesh,9000000021,voter021@example.com,Active,01-09-2025 15:33
+122,122,Voter 122,22-01-1980,45,Male,Address 022,Rajgarh,Ward 3,Rajgarh Nagar Panchayat,Alwar,Andhra Pradesh,9000000022,voter022@example.com,Active,01-09-2025 15:33
+123,123,Voter 123,23-01-1980,45,Female,Address 023,Rajgarh,Ward 3,Rajgarh Nagar Panchayat,Alwar,Andhra Pradesh,9000000023,voter023@example.com,Active,01-09-2025 15:33
+124,124,Voter 124,24-01-1980,45,Other,Address 024,Rajgarh,Ward 3,Rajgarh Nagar Panchayat,Alwar,Andhra Pradesh,9000000024,voter024@example.com,Active,01-09-2025 15:33
+125,125,Voter 125,25-01-1980,45,Male,Address 025,Rajgarh,Ward 3,Rajgarh Nagar Panchayat,Alwar,Andhra Pradesh,9000000025,voter025@example.com,Active,01-09-2025 15:33
+126,126,Voter 126,26-01-1980,45,Female,Address 026,Rajgarh,Ward 3,Rajgarh Nagar Panchayat,Alwar,Andhra Pradesh,9000000026,voter026@example.com,Active,01-09-2025 15:33
+127,127,Voter 127,27-01-1980,45,Other,Address 027,Rajgarh,Ward 3,Rajgarh Nagar Panchayat,Alwar,Andhra Pradesh,9000000027,voter027@example.com,Active,01-09-2025 15:33
+128,128,Voter 128,28-01-1980,45,Male,Address 028,Rajgarh,Ward 3,Rajgarh Nagar Panchayat,Alwar,Andhra Pradesh,9000000028,voter028@example.com,Active,01-09-2025 15:33
+129,129,Voter 129,29-01-1980,45,Female,Address 029,Rajgarh,Ward 3,Rajgarh Nagar Panchayat,Alwar,Andhra Pradesh,9000000029,voter029@example.com,Active,01-09-2025 15:33
+130,130,Voter 130,30-01-1980,45,Other,Address 030,Rajgarh,Ward 3,Rajgarh Nagar Panchayat,Alwar,Andhra Pradesh,9000000030,voter030@example.com,Active,01-09-2025 15:33
+131,131,Voter 131,31-01-1980,45,Male,Address 031,Chengalpattu,Ward 8,Chengalpattu Town Panchayat,Kancheepuram,Andhra Pradesh,9000000031,voter031@example.com,Active,01-09-2025 15:36
+132,132,Voter 132,01-02-1980,45,Female,Address 032,Chengalpattu,Ward 8,Chengalpattu Town Panchayat,Kancheepuram,Andhra Pradesh,9000000032,voter032@example.com,Active,01-09-2025 15:36
+133,133,Voter 133,02-02-1980,45,Other,Address 033,Chengalpattu,Ward 8,Chengalpattu Town Panchayat,Kancheepuram,Andhra Pradesh,9000000033,voter033@example.com,Active,01-09-2025 15:36
+134,134,Voter 134,03-02-1980,45,Male,Address 034,Chengalpattu,Ward 8,Chengalpattu Town Panchayat,Kancheepuram,Andhra Pradesh,9000000034,voter034@example.com,Active,01-09-2025 15:36
+135,135,Voter 135,04-02-1980,45,Female,Address 035,Chengalpattu,Ward 8,Chengalpattu Town Panchayat,Kancheepuram,Andhra Pradesh,9000000035,voter035@example.com,Active,01-09-2025 15:36
+136,136,Voter 136,05-02-1980,45,Other,Address 036,Chengalpattu,Ward 8,Chengalpattu Town Panchayat,Kancheepuram,Andhra Pradesh,9000000036,voter036@example.com,Active,01-09-2025 15:36
+137,137,Voter 137,06-02-1980,45,Male,Address 037,Chengalpattu,Ward 8,Chengalpattu Town Panchayat,Kancheepuram,Andhra Pradesh,9000000037,voter037@example.com,Active,01-09-2025 15:36
+138,138,Voter 138,07-02-1980,45,Female,Address 038,Chengalpattu,Ward 8,Chengalpattu Town Panchayat,Kancheepuram,Andhra Pradesh,9000000038,voter038@example.com,Active,01-09-2025 15:36
+139,139,Voter 139,08-02-1980,45,Other,Address 039,Chengalpattu,Ward 8,Chengalpattu Town Panchayat,Kancheepuram,Andhra Pradesh,9000000039,voter039@example.com,Active,01-09-2025 15:36
+140,140,Voter 140,09-02-1980,45,Male,Address 040,Chengalpattu,Ward 8,Chengalpattu Town Panchayat,Kancheepuram,Andhra Pradesh,9000000040,voter040@example.com,Active,01-09-2025 15:36
+141,141,Voter 141,10-02-1980,45,Female,Address 041,Barasat,Ward 14,Barasat Municipality,North 24 Parganas,Andhra Pradesh,9000000041,voter041@example.com,Active,01-09-2025 15:36
+142,142,Voter 142,11-02-1980,45,Other,Address 042,Barasat,Ward 14,Barasat Municipality,North 24 Parganas,Andhra Pradesh,9000000042,voter042@example.com,Active,01-09-2025 15:36
+143,143,Voter 143,12-02-1980,45,Male,Address 043,Barasat,Ward 14,Barasat Municipality,North 24 Parganas,Andhra Pradesh,9000000043,voter043@example.com,Active,01-09-2025 15:36
+144,144,Voter 144,13-02-1980,45,Female,Address 044,Barasat,Ward 14,Barasat Municipality,North 24 Parganas,Andhra Pradesh,9000000044,voter044@example.com,Active,01-09-2025 15:36
+145,145,Voter 145,14-02-1980,45,Other,Address 045,Barasat,Ward 14,Barasat Municipality,North 24 Parganas,Andhra Pradesh,9000000045,voter045@example.com,Active,01-09-2025 15:36
+146,146,Voter 146,15-02-1980,45,Male,Address 046,Barasat,Ward 14,Barasat Municipality,North 24 Parganas,Andhra Pradesh,9000000046,voter046@example.com,Active,01-09-2025 15:36
+147,147,Voter 147,16-02-1980,45,Female,Address 047,Barasat,Ward 14,Barasat Municipality,North 24 Parganas,Andhra Pradesh,9000000047,voter047@example.com,Active,01-09-2025 15:36
+148,148,Voter 148,17-02-1980,45,Other,Address 048,Barasat,Ward 14,Barasat Municipality,North 24 Parganas,Andhra Pradesh,9000000048,voter048@example.com,Active,01-09-2025 15:36
+149,149,Voter 149,18-02-1980,45,Male,Address 049,Barasat,Ward 14,Barasat Municipality,North 24 Parganas,Andhra Pradesh,9000000049,voter049@example.com,Active,01-09-2025 15:36
+150,150,Voter 150,19-02-1980,45,Female,Address 050,Barasat,Ward 14,Barasat Municipality,North 24 Parganas,Andhra Pradesh,9000000050,voter050@example.com,Active,01-09-2025 15:36
+151,151,Voter 151,20-02-1980,45,Other,Address 051,Bokaro,Ward 6,Bokaro Steel City,Dhanbad,Andhra Pradesh,9000000051,voter051@example.com,Active,01-09-2025 15:36
+152,152,Voter 152,21-02-1980,45,Male,Address 052,Bokaro,Ward 6,Bokaro Steel City,Dhanbad,Andhra Pradesh,9000000052,voter052@example.com,Active,01-09-2025 15:36
+153,153,Voter 153,22-02-1980,45,Female,Address 053,Bokaro,Ward 6,Bokaro Steel City,Dhanbad,Andhra Pradesh,9000000053,voter053@example.com,Active,01-09-2025 15:36
+154,154,Voter 154,23-02-1980,45,Other,Address 054,Bokaro,Ward 6,Bokaro Steel City,Dhanbad,Andhra Pradesh,9000000054,voter054@example.com,Active,01-09-2025 15:36
+155,155,Voter 155,24-02-1980,45,Male,Address 055,Bokaro,Ward 6,Bokaro Steel City,Dhanbad,Andhra Pradesh,9000000055,voter055@example.com,Active,01-09-2025 15:36
+156,156,Voter 156,25-02-1980,45,Female,Address 056,Bokaro,Ward 6,Bokaro Steel City,Dhanbad,Andhra Pradesh,9000000056,voter056@example.com,Active,01-09-2025 15:36
+157,157,Voter 157,26-02-1980,45,Other,Address 057,Bokaro,Ward 6,Bokaro Steel City,Dhanbad,Andhra Pradesh,9000000057,voter057@example.com,Active,01-09-2025 15:36
+158,158,Voter 158,27-02-1980,45,Male,Address 058,Bokaro,Ward 6,Bokaro Steel City,Dhanbad,Andhra Pradesh,9000000058,voter058@example.com,Active,01-09-2025 15:36
+159,159,Voter 159,28-02-1980,45,Female,Address 059,Bokaro,Ward 6,Bokaro Steel City,Dhanbad,Andhra Pradesh,9000000059,voter059@example.com,Active,01-09-2025 15:36
+160,160,Voter 160,29-02-1980,45,Other,Address 060,Bokaro,Ward 6,Bokaro Steel City,Dhanbad,Andhra Pradesh,9000000060,voter060@example.com,Active,01-09-2025 15:36
+161,161,Voter 161,01-03-1980,45,Male,Address 061,Bilaspur,Ward 10,Bilaspur Municipal Corporation,Bilaspur,Andhra Pradesh,9000000061,voter061@example.com,Active,01-09-2025 15:38
+162,162,Voter 162,02-03-1980,45,Female,Address 062,Bilaspur,Ward 10,Bilaspur Municipal Corporation,Bilaspur,Andhra Pradesh,9000000062,voter062@example.com,Active,01-09-2025 15:38
+163,163,Voter 163,03-03-1980,45,Other,Address 063,Bilaspur,Ward 10,Bilaspur Municipal Corporation,Bilaspur,Andhra Pradesh,9000000063,voter063@example.com,Active,01-09-2025 15:38
+164,164,Voter 164,04-03-1980,45,Male,Address 064,Bilaspur,Ward 10,Bilaspur Municipal Corporation,Bilaspur,Andhra Pradesh,9000000064,voter064@example.com,Active,01-09-2025 15:38
+165,165,Voter 165,05-03-1980,45,Female,Address 065,Bilaspur,Ward 10,Bilaspur Municipal Corporation,Bilaspur,Andhra Pradesh,9000000065,voter065@example.com,Active,01-09-2025 15:38
+166,166,Voter 166,06-03-1980,45,Other,Address 066,Bilaspur,Ward 10,Bilaspur Municipal Corporation,Bilaspur,Andhra Pradesh,9000000066,voter066@example.com,Active,01-09-2025 15:38
+167,167,Voter 167,07-03-1980,45,Male,Address 067,Bilaspur,Ward 10,Bilaspur Municipal Corporation,Bilaspur,Andhra Pradesh,9000000067,voter067@example.com,Active,01-09-2025 15:38
+168,168,Voter 168,08-03-1980,45,Female,Address 068,Bilaspur,Ward 10,Bilaspur Municipal Corporation,Bilaspur,Andhra Pradesh,9000000068,voter068@example.com,Active,01-09-2025 15:38
+169,169,Voter 169,09-03-1980,45,Other,Address 069,Bilaspur,Ward 10,Bilaspur Municipal Corporation,Bilaspur,Andhra Pradesh,9000000069,voter069@example.com,Active,01-09-2025 15:38
+170,170,Voter 170,10-03-1980,45,Male,Address 070,Bilaspur,Ward 10,Bilaspur Municipal Corporation,Bilaspur,Andhra Pradesh,9000000070,voter070@example.com,Active,01-09-2025 15:38
+171,171,Voter 171,11-03-1980,45,Female,Address 071,Nanded,Ward 2,Nanded Waghala Municipal Corporation,Nanded,Andhra Pradesh,9000000071,voter071@example.com,Active,01-09-2025 15:38
+172,172,Voter 172,12-03-1980,45,Other,Address 072,Nanded,Ward 2,Nanded Waghala Municipal Corporation,Nanded,Andhra Pradesh,9000000072,voter072@example.com,Active,01-09-2025 15:38
+173,173,Voter 173,13-03-1980,45,Male,Address 073,Nanded,Ward 2,Nanded Waghala Municipal Corporation,Nanded,Andhra Pradesh,9000000073,voter073@example.com,Active,01-09-2025 15:38
+174,174,Voter 174,14-03-1980,45,Female,Address 074,Nanded,Ward 2,Nanded Waghala Municipal Corporation,Nanded,Andhra Pradesh,9000000074,voter074@example.com,Active,01-09-2025 15:38
+175,175,Voter 175,15-03-1980,45,Other,Address 075,Nanded,Ward 2,Nanded Waghala Municipal Corporation,Nanded,Andhra Pradesh,9000000075,voter075@example.com,Active,01-09-2025 15:38
+176,176,Voter 176,16-03-1980,45,Male,Address 076,Nanded,Ward 2,Nanded Waghala Municipal Corporation,Nanded,Andhra Pradesh,9000000076,voter076@example.com,Active,01-09-2025 15:38
+177,177,Voter 177,17-03-1980,45,Female,Address 077,Nanded,Ward 2,Nanded Waghala Municipal Corporation,Nanded,Andhra Pradesh,9000000077,voter077@example.com,Active,01-09-2025 15:38
+178,178,Voter 178,18-03-1980,45,Other,Address 078,Nanded,Ward 2,Nanded Waghala Municipal Corporation,Nanded,Andhra Pradesh,9000000078,voter078@example.com,Active,01-09-2025 15:38
+179,179,Voter 179,19-03-1980,45,Male,Address 079,Nanded,Ward 2,Nanded Waghala Municipal Corporation,Nanded,Andhra Pradesh,9000000079,voter079@example.com,Active,01-09-2025 15:38
+180,180,Voter 180,20-03-1980,45,Female,Address 080,Nanded,Ward 2,Nanded Waghala Municipal Corporation,Nanded,Andhra Pradesh,9000000080,voter080@example.com,Active,01-09-2025 15:38
+181,181,Voter 181,21-03-1980,45,Other,Address 081,Rewa,Ward 9,Rewa Nagar Nigam,Rewa,Andhra Pradesh,9000000081,voter081@example.com,Active,01-09-2025 15:38
+182,182,Voter 182,22-03-1980,45,Male,Address 082,Rewa,Ward 9,Rewa Nagar Nigam,Rewa,Andhra Pradesh,9000000082,voter082@example.com,Active,01-09-2025 15:38
+183,183,Voter 183,23-03-1980,45,Female,Address 083,Rewa,Ward 9,Rewa Nagar Nigam,Rewa,Andhra Pradesh,9000000083,voter083@example.com,Active,01-09-2025 15:38
+184,184,Voter 184,24-03-1980,45,Other,Address 084,Rewa,Ward 9,Rewa Nagar Nigam,Rewa,Andhra Pradesh,9000000084,voter084@example.com,Active,01-09-2025 15:38
+185,185,Voter 185,25-03-1980,45,Male,Address 085,Rewa,Ward 9,Rewa Nagar Nigam,Rewa,Andhra Pradesh,9000000085,voter085@example.com,Active,01-09-2025 15:38
+186,186,Voter 186,26-03-1980,45,Female,Address 086,Rewa,Ward 9,Rewa Nagar Nigam,Rewa,Andhra Pradesh,9000000086,voter086@example.com,Active,01-09-2025 15:38
+187,187,Voter 187,27-03-1980,45,Other,Address 087,Rewa,Ward 9,Rewa Nagar Nigam,Rewa,Andhra Pradesh,9000000087,voter087@example.com,Active,01-09-2025 15:38
+188,188,Voter 188,28-03-1980,45,Male,Address 088,Rewa,Ward 9,Rewa Nagar Nigam,Rewa,Andhra Pradesh,9000000088,voter088@example.com,Active,01-09-2025 15:38
+189,189,Voter 189,29-03-1980,45,Female,Address 089,Rewa,Ward 9,Rewa Nagar Nigam,Rewa,Andhra Pradesh,9000000089,voter089@example.com,Active,01-09-2025 15:38
+190,190,Voter 190,30-03-1980,45,Other,Address 090,Rewa,Ward 9,Rewa Nagar Nigam,Rewa,Andhra Pradesh,9000000090,voter090@example.com,Active,01-09-2025 15:38
+191,191,Voter 191,31-03-1980,45,Male,Address 091,Guntur,Ward 7,Guntur Municipal Corporation,Guntur West,Andhra Pradesh,9000000091,voter091@example.com,Active,01-09-2025 15:39
+192,192,Voter 192,01-04-1980,45,Female,Address 092,Guntur,Ward 7,Guntur Municipal Corporation,Guntur West,Andhra Pradesh,9000000092,voter092@example.com,Active,01-09-2025 15:39
+193,193,Voter 193,02-04-1980,45,Other,Address 093,Guntur,Ward 7,Guntur Municipal Corporation,Guntur West,Andhra Pradesh,9000000093,voter093@example.com,Active,01-09-2025 15:39
+194,194,Voter 194,03-04-1980,45,Male,Address 094,Guntur,Ward 7,Guntur Municipal Corporation,Guntur West,Andhra Pradesh,9000000094,voter094@example.com,Active,01-09-2025 15:39
+195,195,Voter 195,04-04-1980,45,Female,Address 095,Guntur,Ward 7,Guntur Municipal Corporation,Guntur West,Andhra Pradesh,9000000095,voter095@example.com,Active,01-09-2025 15:39
+196,196,Voter 196,05-04-1980,45,Other,Address 096,Guntur,Ward 7,Guntur Municipal Corporation,Guntur West,Andhra Pradesh,9000000096,voter096@example.com,Active,01-09-2025 15:39
+197,197,Voter 197,06-04-1980,45,Male,Address 097,Guntur,Ward 7,Guntur Municipal Corporation,Guntur West,Andhra Pradesh,9000000097,voter097@example.com,Active,01-09-2025 15:39
+198,198,Voter 198,07-04-1980,45,Female,Address 098,Guntur,Ward 7,Guntur Municipal Corporation,Guntur West,Andhra Pradesh,9000000098,voter098@example.com,Active,01-09-2025 15:39
+199,199,Voter 199,08-04-1980,45,Other,Address 099,Guntur,Ward 7,Guntur Municipal Corporation,Guntur West,Andhra Pradesh,9000000099,voter099@example.com,Active,01-09-2025 15:39
+200,200,Voter 200,09-04-1980,45,Male,Address 100,Guntur,Ward 7,Guntur Municipal Corporation,Guntur West,Andhra Pradesh,9000000100,voter100@example.com,Active,01-09-2025 15:39

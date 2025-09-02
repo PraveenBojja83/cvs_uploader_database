@@ -1,0 +1,90 @@
+/* Base reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* App container */
+.App {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #f4f6f8;
+  min-height: 100vh;
+  padding: 40px 20px;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+}
+
+/* Centered content box */
+.content-box {
+  width: 50%;
+  background-color: #fff;
+  padding: 30px;
+  border-radius: 8px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+/* Responsive fallback */
+@media (max-width: 768px) {
+  .content-box {
+    width: 90%;
+    padding: 20px;
+  }
+}
+
+/* Headings */
+h2, h3 {
+  margin-bottom: 16px;
+  color: #bab6b6;
+}
+
+/* Input and select styling */
+input[type="file"],
+input[type="text"],
+select {
+  display: block;
+  margin-bottom: 12px;
+  padding: 8px;
+  width: 100%;
+  max-width: 100%;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+/* Buttons */
+button {
+  background-color: #0077cc;
+  color: white;
+  border: none;
+  padding: 10px 16px;
+  margin-top: 8px;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+button:hover {
+  background-color: #005fa3;
+}
+
+/* Message paragraph */
+p {
+  margin-top: 10px;
+  color: #007700;
+  font-weight: bold;
+}
+
+/* Search results */
+ul {
+  margin-top: 16px;
+  padding-left: 20px;
+}
+
+li {
+  margin-bottom: 6px;
+  font-family: monospace;
+  background-color: #f0f0f0;
+  padding: 6px;
+  border-radius: 4px;
+}
